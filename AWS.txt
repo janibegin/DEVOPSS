@@ -1,0 +1,65 @@
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+
+8:17 AM
+
+charan vutukuri to Everyone
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+
+
+8:17 AM
+
+charan vutukuri to Everyone
+
+putty.exe
+
+
+
+
+8:17 AM
+
+charan vutukuri to Everyone
+
+puttygen.exe
+
+
+-----
+3/30
+Version control system:
+-----------------------
+Maintain code changes
+Maintain history of code
+Maintain versions of code
+
+Centailised vesion tool                   Distributed version control tool
+svn Server<->client                       Git server<->Git Client-Local
+
+Git server: Git hub, git bucket
+Git client; githash, git usi
+Git:
+----
+
+============
+
+EC2(Elastic compute cloud- is nothing but service
+
+
+Vertual machine -
+
+Hard, memory, ram , ssd, security
+
+1.AMI (Amazon machine image)
+2.choose instance type 
+3.Configure instance
+4.add storage
+5.add tags
+6.configure security group
+7.review
+
+Privateid: 172.31.37.75
+username: Administrator
+Pw:  t(IujmN-)AScS3B@G@edBC;9FdE(aukz
